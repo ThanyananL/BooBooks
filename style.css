@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Anuphan:wght@300;500&display=swap');
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'Anuphan', sans-serif !important;
+}
+
+.pdf-list {
+	width: 80%;
+}
+
+.card {
+	width: 18rem;
+}
+
+.category .list-group {
+	width: 200px;
+}
+
+.nd {
+	text-decoration: none;
+}
